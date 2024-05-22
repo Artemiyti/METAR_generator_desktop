@@ -17,7 +17,7 @@ The METAR Generator is a desktop application designed to create METAR reports us
     
     Copy code
     
-    `git clone https://github.com/yourusername/METAR_generator.git`
+    `git clone https://github.com/ /METAR_generator.git`
     
 2. Change to the project directory:
     
